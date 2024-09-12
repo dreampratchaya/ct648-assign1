@@ -15,7 +15,7 @@ bun run start
 This project was created using `bun init` in bun v1.1.26. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 
 
-66130423 ปรัชญา ป้องกัน <br>
+66130423 ปราชญา ป้องกัน <br>
 66130502 ปฏิวัติ สบายยิ่ง <br>
 66130409 พิชิต  ทองดำ <br>
 
