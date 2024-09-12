@@ -20,7 +20,7 @@ This project was created using `bun init` in bun v1.1.26. [Bun](https://bun.sh) 
 66130409 พิชิต  ทองดำ <br>
 
 
-<h2><p>หลักการออกแบบและการทำงานใช้ข้อมูล รายงาน Earthquake โดยการแสดงข้อมูลจากการเลือกวันที่ข้อมูลจะถูกเปลี่ยนไปตามวันที่เลือก โดนไม่ได้มีการ Refresh Screen !!! โดยเลือกใช้งาน Server Express รูปแบบ CSR</p></h2>
+<h2><p>หลักการออกแบบและการทำงานใช้ข้อมูลรายงาน Earthquake</p></h2> <br>โดยการแสดงข้อมูลจากการเลือกวันที่ข้อมูลจะถูกเปลี่ยนไปตามวันที่เลือก โดนไม่ได้มีการ Refresh Screen !!! โดยเลือกใช้งาน Server Express รูปแบบ CSR
 
 หลักการคือ Server จะส่งไฟล์ Index.html + Java script ไปให้กับ Client ทำการ Run Java script ที่ Local 
 
